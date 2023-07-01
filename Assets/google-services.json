@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1074770160259",
+    "project_id": "rock-paper-pig",
+    "storage_bucket": "rock-paper-pig.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074770160259:android:479a623b165fd8066049b6",
+        "android_client_info": {
+          "package_name": "com.TastyColosseum.RockPaperPig"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074770160259-i72dn3i58vabdnmebtj2g05qush8i898.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHEAZzwtQRa0x0jbPRz7pOK2-yLgPsYcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074770160259-i72dn3i58vabdnmebtj2g05qush8i898.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
